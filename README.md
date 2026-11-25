@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=26&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=650&lines=Aura.;Studente+di+Informatica+%7C+C%23+%26+Python+Dev;Dietro+le+quinte+del+codice+%E2%98%95" alt="Typing SVG" />
@@ -40,41 +39,12 @@ Ciao! Sono uno **Studente di Informatica** con la passione per il modding e lo s
 
 ```yaml
 Progetti:
-  - Nome: "PotatoesLab.SL"
+- Nome: "PotatoesLab.SL"
     Stato: "🔒 Privato (In sviluppo attivo)"
     Descrizione: "Architettura core server-side, meccaniche custom ed ecosistema di plugin."
     Stack: ["C#", "Exiled"]
 
-  - Nome: "ProjectFriendlyCore.RP"
+- Nome: "ProjectFriendlyCore.RP"
     Stato: "📦 Archivio Privato"
     Descrizione: "Sistema per gestione roleplay, ruoli custom ed eventi dinamici."
     Stack: ["C#", "Exiled"]
-```
-
-![Separatore](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-### 📊 Dossier Statistiche & Metriche
-
-![Dettagli Profilo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeknoRanger1&theme=tokyonight)
-
-![Repo per linguaggio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeknoRanger1&theme=tokyonight)
-![Statistiche GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeknoRanger1&theme=tokyonight)
-
-![Linguaggi più committati](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeknoRanger1&theme=tokyonight)
-![Orari più produttivi](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeknoRanger1&theme=tokyonight&utcOffset=1)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeknoRanger1&theme=tokyonight&hide_border=true&locale=it&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
-
----
-
-### 🏆 Traguardi Sbloccati
-
-![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=TeknoRanger1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
-
----
-
-### 📈 Frequenza & Attività
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeknoRanger1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mappa%20dei%20Contributi%20-%20TeknoRanger1)
-
-![Footer Onde](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38BDF8&height=130§ion=footer&text=Non%20c'%C3%A8%20magia%2C%20solo%20attenzione%20ai%20dettagli.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling)
