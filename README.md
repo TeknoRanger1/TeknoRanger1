@@ -51,50 +51,30 @@ Progetti:
     Stack: ["C#", "Exiled"]
 ```
 
-<!-- SEPARATORE ANIMATO -->
-<div align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%" />
-</div>
+![Separatore](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📊 Dossier Statistiche & Metriche
 
-<div align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeknoRanger1&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeknoRanger1&theme=tokyonight)" width="92%" alt="Dettagli Profilo" />
-</div>
+![Dettagli Profilo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeknoRanger1&theme=tokyonight)
 
-<div align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeknoRanger1&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeknoRanger1&theme=tokyonight)" height="170" alt="Repo per linguaggio" />
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeknoRanger1&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeknoRanger1&theme=tokyonight)" height="170" alt="Statistiche GitHub" />
-</div>
+![Repo per linguaggio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeknoRanger1&theme=tokyonight)
+![Statistiche GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeknoRanger1&theme=tokyonight)
 
-<div align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeknoRanger1&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeknoRanger1&theme=tokyonight)" height="170" alt="Linguaggi più committati" />
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeknoRanger1&theme=tokyonight&utcOffset=1](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeknoRanger1&theme=tokyonight&utcOffset=1)" height="170" alt="Orari più produttivi" />
-</div>
+![Linguaggi più committati](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeknoRanger1&theme=tokyonight)
+![Orari più produttivi](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeknoRanger1&theme=tokyonight&utcOffset=1)
 
-<br/>
-
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=TeknoRanger1&theme=tokyonight&hide_border=true&locale=it&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8](https://github-readme-streak-stats.herokuapp.com/?user=TeknoRanger1&theme=tokyonight&hide_border=true&locale=it&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeknoRanger1&theme=tokyonight&hide_border=true&locale=it&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
 ---
 
 ### 🏆 Traguardi Sbloccati
 
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=TeknoRanger1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15](https://github-profile-trophy.vercel.app/?username=TeknoRanger1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)" alt="Trofei GitHub" />
-</div>
+![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=TeknoRanger1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
 
 ---
 
 ### 📈 Frequenza & Attività
 
-<div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=TeknoRanger1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mappa%20dei%20Contributi%20-%20TeknoRanger1](https://github-readme-activity-graph.vercel.app/graph?username=TeknoRanger1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mappa%20dei%20Contributi%20-%20TeknoRanger1)" alt="Activity Graph" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeknoRanger1&theme=tokyo-night&hide_border=true&area=true&custom_title=Mappa%20dei%20Contributi%20-%20TeknoRanger1)
 
-<!-- ANIMAZIONE FINALE AD ONDE -->
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38BDF8&height=130§ion=footer&text=Non%20c'%C3%A8%20magia%2C%20solo%20attenzione%20ai%20dettagli.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38BDF8&height=130§ion=footer&text=Non%20c'%C3%A8%20magia%2C%20solo%20attenzione%20ai%20dettagli.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling)" width="100%" />
-</div>
+![Footer Onde](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38BDF8&height=130§ion=footer&text=Non%20c'%C3%A8%20magia%2C%20solo%20attenzione%20ai%20dettagli.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling)
