@@ -1,7 +1,7 @@
 <!-- HEADER CON EFFETTO MACCHINA DA SCRIVERE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=26&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=650&lines=Osservare+i+dettagli.+Scrivere+la+logica.;Studente+di+Informatica+%7C+C%23+%26+Python+Dev;Dietro+le+quinte+del+codice+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Osservare+i+dettagli.+Scrivere+la+logica.;Studente+di+Informatica+%7C+C%23+%26+Python+Dev;Dietro+le+quinte+del+codice+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,8 +17,8 @@
 
 Ciao! Sono uno **Studente di Informatica** con la passione per il modding e lo sviluppo di plugin server-side. Mi piace smontare meccaniche complesse per capire come funzionano dall'interno e ricostruirle in modo pulito ed efficiente. 
 
-* 🔭 **Focus attuale:** Sviluppo dell'ecosistema core di **PotatoesLab.SL**
-* 🧠 **Approccio:** Analisi, logica pura e un po' di sano ingegno dietro le quinte
+- 🔭 **Focus attuale:** Sviluppo dell'ecosistema core di **PotatoesLab.SL**
+- 🧠 **Approccio:** Analisi, logica pura e un po' di sano ingegno dietro le quinte
 
 ---
 
@@ -28,9 +28,9 @@ Ciao! Sono uno **Studente di Informatica** con la passione per il modding e lo s
 
 | Linguaggi | Framework & API | Ambiente & Tool |
 | :---: | :---: | :---: |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![EXILED](https://img.shields.io/badge/EXILED-Framework-8B0000?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![LabAPI](https://img.shields.io/badge/LabAPI-Plugin_Dev-1E293B?style=for-the-badge) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
-| | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![EXILED](https://img.shields.io/badge/EXILED-Framework-8B0000?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![LabAPI](https://img.shields.io/badge/LabAPI-Plugin_Dev-1E293B?style=for-the-badge) | ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white) |
+| | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
