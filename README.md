@@ -39,7 +39,7 @@ Ciao! Sono uno **Studente di Informatica** con la passione per il modding e lo s
 ### 🗂️ Progetti Principali
 
 ```yaml
-Progetti_Core:
+Progetti:
   - Nome: "PotatoesLab.SL"
     Stato: "🔒 Privato (In sviluppo attivo)"
     Descrizione: "Architettura core server-side, meccaniche custom ed ecosistema di plugin."
